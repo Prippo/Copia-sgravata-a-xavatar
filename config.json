@@ -1,0 +1,15 @@
+{
+
+"token": "put your token here", 
+
+"prefix": "put a prefix here",
+
+"guildid": "put the id of the guild to attack here",
+
+"nicks": "put the new nickname for all members here",
+
+"ch": "put the name for the new channels here", 
+
+"ownermsg": "put the message for the owner here"
+  
+} 
